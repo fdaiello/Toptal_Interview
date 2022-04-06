@@ -31,9 +31,6 @@ namespace Toptal_Interview
             // Save this lenght
             int thisLenght = 0;
 
-            // Save this tail
-            string thisTail = "";
-
             // Save max lenght
             int maxLenght = 1;
 
